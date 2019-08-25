@@ -1,5 +1,5 @@
-var genSpaces = require('../src/genSpaces.js');
-var CounterBar = require('../src/CounterBar');
+const genSpaces = require('../src/genSpaces.js');
+const CounterBar = require('../src/CounterBar');
 
 module.exports = class Streaks {
   constructor(streaks) {

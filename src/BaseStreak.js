@@ -1,4 +1,4 @@
-module.exports = class Streak {
+module.exports = class BaseStreak {
   constructor() {
     this.start = null;
     this.last = null;
